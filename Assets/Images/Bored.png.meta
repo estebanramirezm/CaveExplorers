@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 0c9760b1447be4a3cb384a1107e61e13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8387494115274975096
+    second: Lure_0
+  - first:
+      213: 1783009861504510803
+    second: Lure_1
+  - first:
+      213: 3781609698773702984
+    second: Lure_2
+  - first:
+      213: -6825156729326855171
+    second: Lure_3
+  - first:
+      213: -274650557245586625
+    second: Lure_4
+  - first:
+      213: 5338472577655644676
+    second: Lure_5
+  - first:
+      213: -112593650126146455
+    second: Lure_6
+  - first:
+      213: 4045209516987064256
+    second: Lure_7
+  - first:
+      213: -6932057418080427644
+    second: Lure_8
+  - first:
+      213: -609308137786041024
+    second: Lure_9
+  - first:
+      213: -7652732779156148542
+    second: Lure_10
+  - first:
+      213: 6471433824152083552
+    second: Lure_11
+  - first:
+      213: 8640000559445059527
+    second: Lure_12
+  - first:
+      213: 6598014344596719383
+    second: Lure_13
+  - first:
+      213: 7177531009125683353
+    second: Lure_14
+  - first:
+      213: 1990771176169080508
+    second: Lure_15
+  - first:
+      213: 7766008970995319077
+    second: Lure_16
+  - first:
+      213: -3874030362402947100
+    second: Lure_17
+  - first:
+      213: 9192990335893186246
+    second: Lure_18
+  - first:
+      213: 5996776414099845257
+    second: Lure_19
+  - first:
+      213: 4900404035267328803
+    second: Lure_20
+  - first:
+      213: -5809047151537685315
+    second: Lure_21
+  - first:
+      213: -8252677466170752890
+    second: Lure_22
+  - first:
+      213: -7068926014300046211
+    second: Lure_23
+  - first:
+      213: -1472662765200671463
+    second: Lure_24
+  - first:
+      213: -3526816613703772333
+    second: Lure_25
+  - first:
+      213: -3605520510565817557
+    second: Lure_26
+  - first:
+      213: -790019860478142927
+    second: Lure_27
+  - first:
+      213: -1989244033927715608
+    second: Lure_28
+  - first:
+      213: 5258386024873025327
+    second: Lure_29
+  - first:
+      213: 4771788922929314909
+    second: Lure_30
+  - first:
+      213: 1217719445914732086
+    second: Lure_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lure_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 702
+        width: 160
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8881b5f7a82a99b80800000000000000
+      internalID: -8387494115274975096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 702
+        width: 125
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35baef1b5068eb810800000000000000
+      internalID: 1783009861504510803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 702
+        width: 126
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84914963cf9fa7430800000000000000
+      internalID: 3781609698773702984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_3
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 884
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb1b1cad1c2841a0800000000000000
+      internalID: -6825156729326855171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_4
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 901
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33830af5ce303cf0800000000000000
+      internalID: -274650557245586625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_5
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 702
+        width: 159
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40224526680161a40800000000000000
+      internalID: 5338472577655644676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_6
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 890
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9643448fbacff6ef0800000000000000
+      internalID: -112593650126146455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_7
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 862
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf1b0e8f98732830800000000000000
+      internalID: 4045209516987064256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_8
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 878
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48164b081826ccf90800000000000000
+      internalID: -6932057418080427644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 401
+        width: 159
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d12881a7d4b87f0800000000000000
+      internalID: -609308137786041024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 643
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cee86155180cc590800000000000000
+      internalID: -7652732779156148542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 600
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c5804a6c62fc950800000000000000
+      internalID: 6471433824152083552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_12
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 401
+        width: 159
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c726ec6bb277e770800000000000000
+      internalID: 8640000559445059527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_13
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 617
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7178e90b61bd09b50800000000000000
+      internalID: 6598014344596719383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_14
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 401
+        width: 165
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9909943bc66bb9360800000000000000
+      internalID: 7177531009125683353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_15
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 640
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb605a056d3a0ab10800000000000000
+      internalID: 1990771176169080508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_16
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 594
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5214ca6530866cb60800000000000000
+      internalID: 7766008970995319077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_17
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 401
+        width: 211
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eff4ef29edac3ac0800000000000000
+      internalID: -3874030362402947100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_18
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 594
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c623820100149f70800000000000000
+      internalID: 9192990335893186246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_19
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 589
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980bcd75064d83350800000000000000
+      internalID: 5996776414099845257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_20
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 566
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bfff1b18bb10440800000000000000
+      internalID: 4900404035267328803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_21
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 77
+        width: 193
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcf911b46e126fa0800000000000000
+      internalID: -5809047151537685315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_22
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 338
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680850fa199987d80800000000000000
+      internalID: -8252677466170752890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_23
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 326
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cb0262e3126ed90800000000000000
+      internalID: -7068926014300046211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_24
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 76
+        width: 187
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91df44e740d009be0800000000000000
+      internalID: -1472662765200671463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 31
+        width: 182
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3579d38c9fa3e0fc0800000000000000
+      internalID: -3526816613703772333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_26
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 48
+        width: 194
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23e651d23e96fdc0800000000000000
+      internalID: -3605520510565817557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_27
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 270
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13652b26f194905f0800000000000000
+      internalID: -790019860478142927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_28
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 276
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e46c223719c464e0800000000000000
+      internalID: -1989244033927715608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_29
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 276
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f5f60ca3a89f840800000000000000
+      internalID: 5258386024873025327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_30
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 270
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c785e4ebcc83240800000000000000
+      internalID: 4771788922929314909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lure_31
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 230
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63645d1626536e010800000000000000
+      internalID: 1217719445914732086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lure_0: -8387494115274975096
+      Lure_1: 1783009861504510803
+      Lure_10: -7652732779156148542
+      Lure_11: 6471433824152083552
+      Lure_12: 8640000559445059527
+      Lure_13: 6598014344596719383
+      Lure_14: 7177531009125683353
+      Lure_15: 1990771176169080508
+      Lure_16: 7766008970995319077
+      Lure_17: -3874030362402947100
+      Lure_18: 9192990335893186246
+      Lure_19: 5996776414099845257
+      Lure_2: 3781609698773702984
+      Lure_20: 4900404035267328803
+      Lure_21: -5809047151537685315
+      Lure_22: -8252677466170752890
+      Lure_23: -7068926014300046211
+      Lure_24: -1472662765200671463
+      Lure_25: -3526816613703772333
+      Lure_26: -3605520510565817557
+      Lure_27: -790019860478142927
+      Lure_28: -1989244033927715608
+      Lure_29: 5258386024873025327
+      Lure_3: -6825156729326855171
+      Lure_30: 4771788922929314909
+      Lure_31: 1217719445914732086
+      Lure_4: -274650557245586625
+      Lure_5: 5338472577655644676
+      Lure_6: -112593650126146455
+      Lure_7: 4045209516987064256
+      Lure_8: -6932057418080427644
+      Lure_9: -609308137786041024
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

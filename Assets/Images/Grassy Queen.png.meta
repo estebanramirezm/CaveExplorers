@@ -1,0 +1,726 @@
+fileFormatVersion: 2
+guid: 3a4a88c884c834658a8b2092fd1fd274
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -163991733332847499
+    second: Grassy Queen_0
+  - first:
+      213: -2270358421764773493
+    second: Grassy Queen_1
+  - first:
+      213: 7124897407676537213
+    second: Grassy Queen_2
+  - first:
+      213: 6513810732717629421
+    second: Grassy Queen_3
+  - first:
+      213: 6110469593449263837
+    second: Grassy Queen_4
+  - first:
+      213: 5575973070829236276
+    second: Grassy Queen_5
+  - first:
+      213: -4465637594007417540
+    second: Grassy Queen_6
+  - first:
+      213: 747946382432531759
+    second: Grassy Queen_7
+  - first:
+      213: -5674045999710111103
+    second: Grassy Queen_8
+  - first:
+      213: 9095453801125666489
+    second: Grassy Queen_9
+  - first:
+      213: -3799813916732130951
+    second: Grassy Queen_10
+  - first:
+      213: -18148404624597438
+    second: Grassy Queen_11
+  - first:
+      213: 5438116248983596621
+    second: Grassy Queen_12
+  - first:
+      213: 8710456216610127580
+    second: Grassy Queen_13
+  - first:
+      213: -3837781502992528792
+    second: Grassy Queen_14
+  - first:
+      213: -2444725990689429688
+    second: Grassy Queen_15
+  - first:
+      213: -4922637836819672381
+    second: Grassy Queen_16
+  - first:
+      213: 5544080520343576435
+    second: Grassy Queen_17
+  - first:
+      213: -299532905720779652
+    second: Grassy Queen_18
+  - first:
+      213: -7385145468078081697
+    second: Grassy Queen_19
+  - first:
+      213: 3516950756488467757
+    second: Grassy Queen_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grassy Queen_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1
+        width: 524
+        height: 1018
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9328b224bd13457fa5865c4ea47f909
+      internalID: -163991733332847499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Queen_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 634
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53c7b1dc82da4db78d12331fab77af2
+      internalID: -2270358421764773493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Queen_2
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 633
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353d6d65a31744d8dbbbb88be7f2c4d3
+      internalID: 7124897407676537213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Queen_3
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 2
+        width: 867
+        height: 1021
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc17b4c022ae4e3eac5e96e9ee248a1
+      internalID: 6513810732717629421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Queen_4
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 433
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d8974003d094a04b0b2a63d2c62be6
+      internalID: 6110469593449263837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Queen_5
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 401
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eac1e98e91bd4406b95564314a1890b
+      internalID: 5575973070829236276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Queen_6
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 369
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ac71bf8f1ca4a3caf73164d101e49b
+      internalID: -4465637594007417540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Queen_7
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 250
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ace1aa79f9f944eeb85b164bbfc5e2d
+      internalID: 747946382432531759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Queen_8
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 256
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503da76a7f2174f94be83a3f4f9a33a4
+      internalID: -5674045999710111103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Queen_9
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 250
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e01a4fda96d4dfca3dd0998aac1194
+      internalID: 9095453801125666489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Queen_10
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 251
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4da637269bd643218c2db6a0285d3fc
+      internalID: -3799813916732130951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Queen_11
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 249
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb18fad1ca1d1404d9c47ff2d9058d3a
+      internalID: -18148404624597438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Queen_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 241
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579b846e0902941b984b20e4dff04976
+      internalID: 5438116248983596621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Queen_13
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 238
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bbb60bc0c844fcf9c366c8c1f48c80
+      internalID: 8710456216610127580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Queen_14
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 235
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe4db834a40f43dbaf92a5e5577e177
+      internalID: -3837781502992528792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Queen_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 234
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda20ea9794604568a2e30a3d49f3b5d
+      internalID: -2444725990689429688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Queen_16
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 237
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03966474fea7e4481b2bcd1e561b100e
+      internalID: -4922637836819672381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Queen_17
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 239
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506668f15689142e0acf9be144e41aed
+      internalID: 5544080520343576435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Queen_18
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 236
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61fce1fc2b32434ea4086aab81f8f45
+      internalID: -299532905720779652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Queen_19
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 221
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad6aedeae7694694bde959cc24c063e
+      internalID: -7385145468078081697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Queen_20
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 217
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d867915668146492ea23fe9debf51385
+      internalID: 3516950756488467757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Queen_21
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 220
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777e188b47bef4edea67f1ef7cb066b6
+      internalID: -209472234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Queen_22
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 226
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5d70c8c38fe4f6e91c63c44d13246e
+      internalID: -1174059573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4aecf26426c8a458fa62b984db45b2f2
+    internalID: 2124371936
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: True
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":true,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Grassy Queen_0: 446296775
+      Grassy Queen_1: -1415231492
+      Grassy Queen_10: -1675470143
+      Grassy Queen_11: -917048115
+      Grassy Queen_12: 1058817326
+      Grassy Queen_13: -1443585705
+      Grassy Queen_14: 983586150
+      Grassy Queen_15: 1070973362
+      Grassy Queen_16: 1325712363
+      Grassy Queen_17: -1879704865
+      Grassy Queen_18: -149701945
+      Grassy Queen_19: -1013500150
+      Grassy Queen_2: -2009772169
+      Grassy Queen_20: 712553882
+      Grassy Queen_21: -1237388586
+      Grassy Queen_22: 878844131
+      Grassy Queen_3: -107805058
+      Grassy Queen_4: -1591984142
+      Grassy Queen_5: 1089650164
+      Grassy Queen_6: -1859513691
+      Grassy Queen_7: 1276957890
+      Grassy Queen_8: 1058238542
+      Grassy Queen_9: -173033256
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

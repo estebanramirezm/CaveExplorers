@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 9a4723adc577f4dd0b0b53906001de69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2923382816627813377
+    second: Grassy Cave Environment_0
+  - first:
+      213: 8990247534035339810
+    second: Grassy Cave Environment_1
+  - first:
+      213: -9183417851388118132
+    second: Grassy Cave Environment_2
+  - first:
+      213: -1518712578568682378
+    second: Grassy Cave Environment_3
+  - first:
+      213: -4967265784994906994
+    second: Grassy Cave Environment_4
+  - first:
+      213: -4998407603712986190
+    second: Grassy Cave Environment_5
+  - first:
+      213: 1973976613531841565
+    second: Grassy Cave Environment_6
+  - first:
+      213: 7559687610259705076
+    second: Grassy Cave Environment_7
+  - first:
+      213: 1885625916030237089
+    second: Grassy Cave Environment_8
+  - first:
+      213: 768886756027584441
+    second: Grassy Cave Environment_9
+  - first:
+      213: -5110951193819140802
+    second: Grassy Cave Environment_10
+  - first:
+      213: 3160965900317194154
+    second: Grassy Cave Environment_11
+  - first:
+      213: -2120304317975808479
+    second: Grassy Cave Environment_12
+  - first:
+      213: -9073989140678471265
+    second: Grassy Cave Environment_13
+  - first:
+      213: 9095517812465109933
+    second: Grassy Cave Environment_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grassy Cave Environment_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 632
+        width: 532
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff31b6821de0e67d0800000000000000
+      internalID: -2923382816627813377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Cave Environment_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 328
+        width: 719
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a0205ff76c3cc70800000000000000
+      internalID: 8990247534035339810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Cave Environment_2
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 683
+        width: 346
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bb708be12fd8080800000000000000
+      internalID: -9183417851388118132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Cave Environment_3
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 473
+        width: 202
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6740f7ec4f27ceae0800000000000000
+      internalID: -1518712578568682378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Cave Environment_4
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 643
+        width: 243
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c3d64161ab01bb0800000000000000
+      internalID: -4967265784994906994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Cave Environment_5
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 483
+        width: 397
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3731264c612aab0800000000000000
+      internalID: -4998407603712986190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Cave Environment_6
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 509
+        width: 381
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d147e7c7549f46b10800000000000000
+      internalID: 1973976613531841565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Cave Environment_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 184
+        width: 66
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc837e14d769e860800000000000000
+      internalID: 7559687610259705076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Cave Environment_8
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 183
+        width: 95
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9b048b7c61b2a10800000000000000
+      internalID: 1885625916030237089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Cave Environment_9
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 199
+        width: 68
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfc68d4e62abaa00800000000000000
+      internalID: 768886756027584441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Cave Environment_10
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 169
+        width: 92
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d2d0cd7f04219b0800000000000000
+      internalID: -5110951193819140802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Cave Environment_11
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 163
+        width: 438
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa777832db10edb20800000000000000
+      internalID: 3160965900317194154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Cave Environment_12
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 403
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1263357e47a2392e0800000000000000
+      internalID: -2120304317975808479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Cave Environment_13
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 167
+        width: 449
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f919b1ed3f6b21280800000000000000
+      internalID: -9073989140678471265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy Cave Environment_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 1494
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab8834a245c93e70800000000000000
+      internalID: 9095517812465109933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Grassy Cave Environment_0: -2923382816627813377
+      Grassy Cave Environment_1: 8990247534035339810
+      Grassy Cave Environment_10: -5110951193819140802
+      Grassy Cave Environment_11: 3160965900317194154
+      Grassy Cave Environment_12: -2120304317975808479
+      Grassy Cave Environment_13: -9073989140678471265
+      Grassy Cave Environment_14: 9095517812465109933
+      Grassy Cave Environment_2: -9183417851388118132
+      Grassy Cave Environment_3: -1518712578568682378
+      Grassy Cave Environment_4: -4967265784994906994
+      Grassy Cave Environment_5: -4998407603712986190
+      Grassy Cave Environment_6: 1973976613531841565
+      Grassy Cave Environment_7: 7559687610259705076
+      Grassy Cave Environment_8: 1885625916030237089
+      Grassy Cave Environment_9: 768886756027584441
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

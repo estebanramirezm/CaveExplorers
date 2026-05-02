@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffceb4dfdb1b1124cb5646bea6d8bd82, type: 3}
+  m_Name: Level_Cave_02
+  m_EditorClassIdentifier: Assembly-CSharp::LevelData
+  LevelId: 0
+  LevelName: Cave 2
+  SceneName: Level_Cave_02
+  Biome: Cave
+  RequiredArtifacts: 0
+  PrerequisiteLevelId: 0
+  MainArtifactCount: 1
+  HiddenArtifactCount: 3
+  Description: 
+  PreviewImage: {fileID: 0}

@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 0bb7ebf40753147dba059e6f991ce9c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8601871783382158749
+    second: Bored_0
+  - first:
+      213: -4621820891146639901
+    second: Bored_1
+  - first:
+      213: 4886181282513158591
+    second: Bored_2
+  - first:
+      213: 9124589993837605432
+    second: Bored_3
+  - first:
+      213: 2265507256830414989
+    second: Bored_4
+  - first:
+      213: 4288956602187659701
+    second: Bored_5
+  - first:
+      213: -3363673098556197460
+    second: Bored_6
+  - first:
+      213: -1100934495856564346
+    second: Bored_7
+  - first:
+      213: 4900134623723197604
+    second: Bored_8
+  - first:
+      213: 7164040356796607078
+    second: Bored_9
+  - first:
+      213: -8771434980577201741
+    second: Bored_10
+  - first:
+      213: -2268786773351826470
+    second: Bored_11
+  - first:
+      213: -8130422997325198802
+    second: Bored_12
+  - first:
+      213: 1379453603142221460
+    second: Bored_13
+  - first:
+      213: 6180927124096801350
+    second: Bored_14
+  - first:
+      213: 4035112243812483417
+    second: Bored_15
+  - first:
+      213: 2654937406560383156
+    second: Bored_16
+  - first:
+      213: 6070958272051750518
+    second: Bored_17
+  - first:
+      213: 4246864933388686802
+    second: Bored_18
+  - first:
+      213: -7644420097579421930
+    second: Bored_19
+  - first:
+      213: 8781271258414598346
+    second: Bored_20
+  - first:
+      213: -2980144613129649378
+    second: Bored_21
+  - first:
+      213: -4924877969367137052
+    second: Bored_22
+  - first:
+      213: 4647943275409671715
+    second: Bored_23
+  - first:
+      213: 4555864040635098738
+    second: Bored_24
+  - first:
+      213: 4829014657263752816
+    second: Bored_25
+  - first:
+      213: -1865008461557757235
+    second: Bored_26
+  - first:
+      213: -8461699806624343921
+    second: Bored_27
+  - first:
+      213: 8574052342185368687
+    second: Bored_28
+  - first:
+      213: 7336886968535665284
+    second: Bored_29
+  - first:
+      213: -3296332028587847976
+    second: Bored_30
+  - first:
+      213: -8019937172860408737
+    second: Bored_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bored_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 702
+        width: 160
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362fc0c003300a880800000000000000
+      internalID: -8601871783382158749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 702
+        width: 125
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5a9bf036efbdfb0800000000000000
+      internalID: -4621820891146639901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 702
+        width: 126
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb10c540df33fc340800000000000000
+      internalID: 4886181282513158591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_3
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 884
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83236c7514e01ae70800000000000000
+      internalID: 9124589993837605432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_4
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 901
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80527fc8d2b07f10800000000000000
+      internalID: 2265507256830414989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_5
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 702
+        width: 159
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9367a4e4f658b30800000000000000
+      internalID: 4288956602187659701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_6
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 890
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5350c6325d151d0800000000000000
+      internalID: -3363673098556197460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_7
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 862
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687ee75b8e1b8b0f0800000000000000
+      internalID: -1100934495856564346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_8
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 878
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a41d9e6a76c00440800000000000000
+      internalID: 4900134623723197604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 401
+        width: 159
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aac6f6fb8cb6360800000000000000
+      internalID: 7164040356796607078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 643
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1b244bb5a954680800000000000000
+      internalID: -8771434980577201741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 600
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb724f3376a380e0800000000000000
+      internalID: -2268786773351826470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_12
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 401
+        width: 159
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ac3ca5c5fea2f80800000000000000
+      internalID: -8130422997325198802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_13
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 617
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ebc6f4ebdc42310800000000000000
+      internalID: 1379453603142221460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_14
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 401
+        width: 165
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64add5ea87017c550800000000000000
+      internalID: 6180927124096801350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_15
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 640
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951c541f4399ff730800000000000000
+      internalID: 4035112243812483417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_16
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 594
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0bdea318b38d420800000000000000
+      internalID: 2654937406560383156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_17
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 401
+        width: 211
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6762dd31260604450800000000000000
+      internalID: 6070958272051750518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_18
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 594
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d512b3f725efea30800000000000000
+      internalID: 4246864933388686802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_19
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 589
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61febe15c6099e590800000000000000
+      internalID: -7644420097579421930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_20
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 566
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac846223fa75dd970800000000000000
+      internalID: 8781271258414598346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_21
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 77
+        width: 193
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e130d1b834664a6d0800000000000000
+      internalID: -2980144613129649378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_22
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 338
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e489b9749157abb0800000000000000
+      internalID: -4924877969367137052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_23
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 326
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32685fa78cfc08040800000000000000
+      internalID: 4647943275409671715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_24
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 76
+        width: 187
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276e70bf43ea93f30800000000000000
+      internalID: 4555864040635098738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 31
+        width: 182
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0765c5dde3b140340800000000000000
+      internalID: 4829014657263752816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_26
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 48
+        width: 194
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca80c97fa82e16e0800000000000000
+      internalID: -1865008461557757235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_27
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 270
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f881a2e9bd0029a80800000000000000
+      internalID: -8461699806624343921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_28
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 276
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c909d8d272df670800000000000000
+      internalID: 8574052342185368687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_29
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 276
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ac2cc43dbd1d560800000000000000
+      internalID: 7336886968535665284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_30
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 270
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de47461c731142d0800000000000000
+      internalID: -3296332028587847976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored_31
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 230
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c64baf1a573b090800000000000000
+      internalID: -8019937172860408737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bored_0: -8601871783382158749
+      Bored_1: -4621820891146639901
+      Bored_10: -8771434980577201741
+      Bored_11: -2268786773351826470
+      Bored_12: -8130422997325198802
+      Bored_13: 1379453603142221460
+      Bored_14: 6180927124096801350
+      Bored_15: 4035112243812483417
+      Bored_16: 2654937406560383156
+      Bored_17: 6070958272051750518
+      Bored_18: 4246864933388686802
+      Bored_19: -7644420097579421930
+      Bored_2: 4886181282513158591
+      Bored_20: 8781271258414598346
+      Bored_21: -2980144613129649378
+      Bored_22: -4924877969367137052
+      Bored_23: 4647943275409671715
+      Bored_24: 4555864040635098738
+      Bored_25: 4829014657263752816
+      Bored_26: -1865008461557757235
+      Bored_27: -8461699806624343921
+      Bored_28: 8574052342185368687
+      Bored_29: 7336886968535665284
+      Bored_3: 9124589993837605432
+      Bored_30: -3296332028587847976
+      Bored_31: -8019937172860408737
+      Bored_4: 2265507256830414989
+      Bored_5: 4288956602187659701
+      Bored_6: -3363673098556197460
+      Bored_7: -1100934495856564346
+      Bored_8: 4900134623723197604
+      Bored_9: 7164040356796607078
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

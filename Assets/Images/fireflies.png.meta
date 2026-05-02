@@ -1,0 +1,1578 @@
+fileFormatVersion: 2
+guid: fc85767b9a499e247a01230a3fce4376
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5217461692476289899
+    second: fireflies_0
+  - first:
+      213: -9109315373011105068
+    second: fireflies_1
+  - first:
+      213: 1393776423734617103
+    second: fireflies_2
+  - first:
+      213: 6902615085047767786
+    second: fireflies_3
+  - first:
+      213: -8089690794789150182
+    second: fireflies_4
+  - first:
+      213: -5807114948336155836
+    second: fireflies_5
+  - first:
+      213: -6090333420813554338
+    second: fireflies_6
+  - first:
+      213: 867462386247719706
+    second: fireflies_7
+  - first:
+      213: -5867059316075441288
+    second: fireflies_8
+  - first:
+      213: 3980778983275100712
+    second: fireflies_9
+  - first:
+      213: -175276029379970484
+    second: fireflies_10
+  - first:
+      213: -7500063586979174242
+    second: fireflies_11
+  - first:
+      213: 1222961900176893089
+    second: fireflies_12
+  - first:
+      213: -1987704691966598823
+    second: fireflies_13
+  - first:
+      213: -4481878487250527692
+    second: fireflies_14
+  - first:
+      213: -7185961456146486489
+    second: fireflies_15
+  - first:
+      213: -6889805363253087503
+    second: fireflies_16
+  - first:
+      213: -3750958583288522824
+    second: fireflies_17
+  - first:
+      213: 1823521915187253973
+    second: fireflies_18
+  - first:
+      213: 8474112578690711846
+    second: fireflies_19
+  - first:
+      213: 4554971861194100183
+    second: fireflies_20
+  - first:
+      213: 4704192615042659736
+    second: fireflies_21
+  - first:
+      213: 1465092792360561948
+    second: fireflies_22
+  - first:
+      213: 7093479329333071777
+    second: fireflies_23
+  - first:
+      213: 8262758807035284054
+    second: fireflies_24
+  - first:
+      213: -3529781002175054180
+    second: fireflies_25
+  - first:
+      213: -7188400368395063677
+    second: fireflies_26
+  - first:
+      213: 3847815579888233656
+    second: fireflies_27
+  - first:
+      213: -2548505631328209601
+    second: fireflies_28
+  - first:
+      213: 875522530877841031
+    second: fireflies_29
+  - first:
+      213: 4793598503520614010
+    second: fireflies_30
+  - first:
+      213: 5549456408607372903
+    second: fireflies_31
+  - first:
+      213: -4146999253268086974
+    second: fireflies_32
+  - first:
+      213: -1488734084014077210
+    second: fireflies_33
+  - first:
+      213: 2865812831202979171
+    second: fireflies_34
+  - first:
+      213: 5559657293313870531
+    second: fireflies_35
+  - first:
+      213: 6131687361403249719
+    second: fireflies_36
+  - first:
+      213: 9015488133522414108
+    second: fireflies_37
+  - first:
+      213: -9008319066914042614
+    second: fireflies_38
+  - first:
+      213: -1464284730325966896
+    second: fireflies_39
+  - first:
+      213: -5776706496822689391
+    second: fireflies_40
+  - first:
+      213: 6701209601454376218
+    second: fireflies_41
+  - first:
+      213: 8069958104681737854
+    second: fireflies_42
+  - first:
+      213: -5188940650705557228
+    second: fireflies_43
+  - first:
+      213: 8067094059388405376
+    second: fireflies_44
+  - first:
+      213: 7565982885167022203
+    second: fireflies_45
+  - first:
+      213: 6663524017763985011
+    second: fireflies_46
+  - first:
+      213: -7836202912408924365
+    second: fireflies_47
+  - first:
+      213: -5777978096513754739
+    second: fireflies_48
+  - first:
+      213: 3145684474665299714
+    second: fireflies_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fireflies_0
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 511
+        width: 339
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c0eb6eb3ad797b0800000000000000
+      internalID: -5217461692476289899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_1
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 935
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da0ba47ee5359180800000000000000
+      internalID: -9109315373011105068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 944
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f042409d540b75310800000000000000
+      internalID: 1393776423734617103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 944
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1268d94515abbf80800000000000000
+      internalID: -8089690794789150182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_5
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 942
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443009ec8bbf86fa0800000000000000
+      internalID: -5807114948336155836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_6
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 942
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5de7b0950aca7ba0800000000000000
+      internalID: -6090333420813554338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_7
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 942
+        width: 31
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bde4cb178d90c00800000000000000
+      internalID: 867462386247719706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_8
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 944
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8735d2513a4049ea0800000000000000
+      internalID: -5867059316075441288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_9
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 942
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82af37be4619e3730800000000000000
+      internalID: 3980778983275100712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_10
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 944
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a7a23416b419df0800000000000000
+      internalID: -175276029379970484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_11
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 942
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98a34997eb6ae790800000000000000
+      internalID: -7500063586979174242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_12
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 940
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a461e16e55d8f010800000000000000
+      internalID: 1222961900176893089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_13
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 940
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95124fc2d114a64e0800000000000000
+      internalID: -1987704691966598823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_14
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 944
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a97f8034b2dc1c0800000000000000
+      internalID: -4481878487250527692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_15
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 930
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b6db4e026564c90800000000000000
+      internalID: -7185961456146486489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_17
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 944
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b792ebba0be1fbc0800000000000000
+      internalID: -3750958583288522824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_18
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 944
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d250ea35837e4910800000000000000
+      internalID: 1823521915187253973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_20
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 500
+        width: 339
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddcf5446c2863f30800000000000000
+      internalID: 4554971861194100183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_22
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 514
+        width: 334
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1de2abd12e055410800000000000000
+      internalID: 1465092792360561948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_24
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 608
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a81166b573ba270800000000000000
+      internalID: 8262758807035284054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_27
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 500
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bca37022ef266530800000000000000
+      internalID: 3847815579888233656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_28
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 500
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35799081a3e1acd0800000000000000
+      internalID: -2548505631328209601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_29
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 500
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e13d56a1b762c00800000000000000
+      internalID: 875522530877841031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_30
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 500
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76b03ef078468240800000000000000
+      internalID: 4793598503520614010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_31
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 500
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766be8b8331a30d40800000000000000
+      internalID: 5549456408607372903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_32
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 500
+        width: 23
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f3521a626e276c0800000000000000
+      internalID: -4146999253268086974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_33
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 500
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea035dfc34f65be0800000000000000
+      internalID: -1488734084014077210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_34
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 459
+        width: 124
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d2c94169965c720800000000000000
+      internalID: 2865812831202979171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_35
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 452
+        width: 136
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca02e81aded72d40800000000000000
+      internalID: 5559657293313870531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_36
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 451
+        width: 147
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734613a0b21281550800000000000000
+      internalID: 6131687361403249719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_37
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 492
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a5a5bf0b27d1d70800000000000000
+      internalID: 9015488133522414108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_38
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 402
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dc53969850cf280800000000000000
+      internalID: -9008319066914042614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_39
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 402
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df54eebbc0ddabe0800000000000000
+      internalID: -1464284730325966896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_40
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 402
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19141352c0405dfa0800000000000000
+      internalID: -5776706496822689391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_41
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 401
+        width: 91
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a150024c0aa7ffc50800000000000000
+      internalID: 6701209601454376218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_42
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 382
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ee6d5c3204eff60800000000000000
+      internalID: 8069958104681737854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_43
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 399
+        width: 129
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4196c1a68fd2df7b0800000000000000
+      internalID: -5188940650705557228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_44
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 402
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08682834e4314ff60800000000000000
+      internalID: 8067094059388405376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_45
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 402
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70c0170955cff860800000000000000
+      internalID: 7565982885167022203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_46
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 385
+        width: 124
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3762b1f0ac7997c50800000000000000
+      internalID: 6663524017763985011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_47
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 84
+        width: 275
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f0cf918f6304390800000000000000
+      internalID: -7836202912408924365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_49
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 95
+        width: 295
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fe2e7fc57b7ab20800000000000000
+      internalID: 3145684474665299714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_50
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 228
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f338ac1f629df7f4db3e7db951e59f3e
+      internalID: -2100651095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_51
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 92
+        width: 314
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4b30732d92d1a44b988e1e5edf7bc1
+      internalID: 452640891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_52
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 172
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a5c7505f3424046b73d51ef8afb11d
+      internalID: -1103901202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_53
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 45
+        width: 107
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26f842a54dd47e43bea1121a83a0aed
+      internalID: -1225199821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_54
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 0
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf26332e1c0a3b44bf9d37a8cb9c5d2
+      internalID: 860207069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_55
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 45
+        width: 137
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714504e24d50dcc4b810fd71f5c40917
+      internalID: 1808572743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_56
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 45
+        width: 137
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc055b9fdc448242a13ef7cd0210d1a
+      internalID: -532679040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_57
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f2b9eeb91eff54abb060db2d12b342
+      internalID: -9413664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_58
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 30
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd7053ca9e49474f8f9aad3c3dd5c36
+      internalID: 265228571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_59
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 0
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3244f744c05d93d4aa942eec9e110316
+      internalID: 785164488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_60
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 0
+        width: 114
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccd7515450eab1418d6ca2ca1cc5109
+      internalID: 45167224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_61
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 0
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ca44ad6544725449fb50266bb4151b
+      internalID: 1150785059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_62
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 0
+        width: 172
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102580bea76d29944931c8f3f7f9bcc5
+      internalID: -135111956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflies_63
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 0
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35053c26f0dce7f45ab34bdf12db74c2
+      internalID: 2098670712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 74d32ce28c7ee6845ba18dcc017ba30a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      fireflies_0: -5217461692476289899
+      fireflies_1: -9109315373011105068
+      fireflies_10: -175276029379970484
+      fireflies_11: -7500063586979174242
+      fireflies_12: 1222961900176893089
+      fireflies_13: -1987704691966598823
+      fireflies_14: -4481878487250527692
+      fireflies_15: -7185961456146486489
+      fireflies_16: -6889805363253087503
+      fireflies_17: -3750958583288522824
+      fireflies_18: 1823521915187253973
+      fireflies_19: 8474112578690711846
+      fireflies_2: 1393776423734617103
+      fireflies_20: 4554971861194100183
+      fireflies_21: 4704192615042659736
+      fireflies_22: 1465092792360561948
+      fireflies_23: 7093479329333071777
+      fireflies_24: 8262758807035284054
+      fireflies_25: -3529781002175054180
+      fireflies_26: -7188400368395063677
+      fireflies_27: 3847815579888233656
+      fireflies_28: -2548505631328209601
+      fireflies_29: 875522530877841031
+      fireflies_3: 6902615085047767786
+      fireflies_30: 4793598503520614010
+      fireflies_31: 5549456408607372903
+      fireflies_32: -4146999253268086974
+      fireflies_33: -1488734084014077210
+      fireflies_34: 2865812831202979171
+      fireflies_35: 5559657293313870531
+      fireflies_36: 6131687361403249719
+      fireflies_37: 9015488133522414108
+      fireflies_38: -9008319066914042614
+      fireflies_39: -1464284730325966896
+      fireflies_4: -8089690794789150182
+      fireflies_40: -5776706496822689391
+      fireflies_41: 6701209601454376218
+      fireflies_42: 8069958104681737854
+      fireflies_43: -5188940650705557228
+      fireflies_44: 8067094059388405376
+      fireflies_45: 7565982885167022203
+      fireflies_46: 6663524017763985011
+      fireflies_47: -7836202912408924365
+      fireflies_48: -5777978096513754739
+      fireflies_49: 3145684474665299714
+      fireflies_5: -5807114948336155836
+      fireflies_50: -2100651095
+      fireflies_51: 452640891
+      fireflies_52: -1103901202
+      fireflies_53: -1225199821
+      fireflies_54: 860207069
+      fireflies_55: 1808572743
+      fireflies_56: -532679040
+      fireflies_57: -9413664
+      fireflies_58: 265228571
+      fireflies_59: 785164488
+      fireflies_6: -6090333420813554338
+      fireflies_60: 45167224
+      fireflies_61: 1150785059
+      fireflies_62: -135111956
+      fireflies_63: 2098670712
+      fireflies_7: 867462386247719706
+      fireflies_8: -5867059316075441288
+      fireflies_9: 3980778983275100712
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
