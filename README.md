@@ -12,12 +12,11 @@ A 2D Pixel-Art Platformer focused on light-based resource management and subterr
 
 ## 🐞 Known Issues
 * **Mid-air Climbing:** Pressing `X` to climb a vine can occasionally allow the player to move away from the wall while remaining in the climb state. Use with caution!
-* **Edge Cases:** Players may encounter minor unverified interactions in specific biome transitions.
+* **Edge Cases:** Players may encounter minor unverified interactions in specific transitions.
 
 ---
 
 ## 🛠️ Third-Party Assets & Attribution
-This project utilizes several high-quality assets to achieve its retro aesthetic.
 
 | Category | Source | Asset Name |
 | :--- | :--- | :--- |
